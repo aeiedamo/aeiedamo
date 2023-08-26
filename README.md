@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @aeiedamo [AlaaEldin Mohamed]
+- 👀 I’m into Linux OSs, Windows Configuration and Software Engineering.
+- 🌱 I’m currently learning to be a Full-Stack Software Engineer :)
+- 📫 You can reach me at aeiedamo@gmail.com
